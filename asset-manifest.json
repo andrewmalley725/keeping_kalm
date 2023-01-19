@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.01edcc37.js",
-    "index.html": "/index.html",
-    "main.01edcc37.js.map": "/static/js/main.01edcc37.js.map"
+    "main.js": "/keeping_kalm/static/js/main.01edcc37.js",
+    "index.html": "/keeping_kalm/index.html",
+    "main.01edcc37.js.map": "/keeping_kalm/static/js/main.01edcc37.js.map"
   },
   "entrypoints": [
     "static/js/main.01edcc37.js"
