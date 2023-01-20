@@ -1,0 +1,14 @@
+.product {
+    border: solid 2px black;
+    text-align: center;
+    width: 210px;
+}
+
+.product img {
+    height: 190px;
+    width: 200px;
+}
+
+#inventory {
+    display: flex;
+}
