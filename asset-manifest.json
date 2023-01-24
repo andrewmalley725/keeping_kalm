@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/keeping_kalm/static/css/main.2abd676d.css",
-    "main.js": "/keeping_kalm/static/js/main.1bde2cab.js",
+    "main.js": "/keeping_kalm/static/js/main.64b7c23c.js",
     "static/media/3.png": "/keeping_kalm/static/media/3.8b36c63156344d4858e6.png",
     "static/media/2.png": "/keeping_kalm/static/media/2.059d283394b286445bd7.png",
     "static/media/salomon_main.png": "/keeping_kalm/static/media/salomon_main.b424c80d7db8413ead91.png",
@@ -12,10 +12,10 @@
     "static/media/5.png": "/keeping_kalm/static/media/5.50c80dd4db184371f869.png",
     "index.html": "/keeping_kalm/index.html",
     "main.2abd676d.css.map": "/keeping_kalm/static/css/main.2abd676d.css.map",
-    "main.1bde2cab.js.map": "/keeping_kalm/static/js/main.1bde2cab.js.map"
+    "main.64b7c23c.js.map": "/keeping_kalm/static/js/main.64b7c23c.js.map"
   },
   "entrypoints": [
     "static/css/main.2abd676d.css",
-    "static/js/main.1bde2cab.js"
+    "static/js/main.64b7c23c.js"
   ]
 }
