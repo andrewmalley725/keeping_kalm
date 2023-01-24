@@ -9,12 +9,14 @@ export default function Home(){
                 {
                     data.map(i => {
                         return(
-                            <div class='product'>
-                                <h4>{i.prodName}</h4>
-                                <img src={require(`../assets/${i.thumbnail}`)} alt={i.prodName}></img><br/>
-                                <b>${i.prodPrice}</b><br/>
-                                <a href={i.amazon}>Purchase on Amazon</a>
-                            </div>
+                            <a class="prodLink" href={`/info/${i.prodName.split(' ')[0].toLowerCase()}`}>
+                                <div class='product'>
+                                    <h4>{i.prodName}</h4>
+                                    <img src={require(`../assets/${i.thumbnail}`)} alt={i.prodName}></img><br/>
+                                    <b>${i.prodPrice}</b><br/>
+                                    <a href={i.amazon}>Purchase on Amazon</a>
+                                </div>
+                            </a>
                         )
                     })
                 }

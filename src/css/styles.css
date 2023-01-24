@@ -12,3 +12,8 @@
 #inventory {
     display: flex;
 }
+
+.prodLink {
+    text-decoration: none;
+    color: black;
+}
