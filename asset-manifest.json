@@ -1,15 +1,21 @@
 {
   "files": {
-    "main.css": "/keeping_kalm/static/css/main.8b0bfe72.css",
-    "main.js": "/keeping_kalm/static/js/main.ea09862d.js",
+    "main.css": "/keeping_kalm/static/css/main.2abd676d.css",
+    "main.js": "/keeping_kalm/static/js/main.a5024b71.js",
+    "static/media/3.png": "/keeping_kalm/static/media/3.8b36c63156344d4858e6.png",
+    "static/media/2.png": "/keeping_kalm/static/media/2.059d283394b286445bd7.png",
     "static/media/salomon_main.png": "/keeping_kalm/static/media/salomon_main.b424c80d7db8413ead91.png",
+    "static/media/4.png": "/keeping_kalm/static/media/4.972f1684c59e0d8d8907.png",
+    "static/media/Copy of Salomon Lg Infograhpics.png": "/keeping_kalm/static/media/Copy of Salomon Lg Infograhpics.7a764b0384679d670f93.png",
+    "static/media/6.png": "/keeping_kalm/static/media/6.b7ff211e515396285284.png",
     "static/media/dayle_main.png": "/keeping_kalm/static/media/dayle_main.be14f3de48c23982dffe.png",
+    "static/media/5.png": "/keeping_kalm/static/media/5.50c80dd4db184371f869.png",
     "index.html": "/keeping_kalm/index.html",
-    "main.8b0bfe72.css.map": "/keeping_kalm/static/css/main.8b0bfe72.css.map",
-    "main.ea09862d.js.map": "/keeping_kalm/static/js/main.ea09862d.js.map"
+    "main.2abd676d.css.map": "/keeping_kalm/static/css/main.2abd676d.css.map",
+    "main.a5024b71.js.map": "/keeping_kalm/static/js/main.a5024b71.js.map"
   },
   "entrypoints": [
-    "static/css/main.8b0bfe72.css",
-    "static/js/main.ea09862d.js"
+    "static/css/main.2abd676d.css",
+    "static/js/main.a5024b71.js"
   ]
 }
