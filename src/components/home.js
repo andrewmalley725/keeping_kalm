@@ -9,7 +9,7 @@ export default function Home(){
                 {
                     data.map(i => {
                         return(
-                            <a class="prodLink" href={`/info/${i.prodName.split(' ')[0].toLowerCase()}`}>
+                            <a class="prodLink" href={`/#/info/${i.prodName.split(' ')[0].toLowerCase()}`}>
                                 <div class='product'>
                                     <h4>{i.prodName}</h4>
                                     <img src={require(`../assets/${i.thumbnail}`)} alt={i.prodName}></img><br/>
