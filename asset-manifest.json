@@ -1,8 +1,9 @@
 {
   "files": {
-    "main.css": "/keeping_kalm/static/css/main.2abd676d.css",
-    "main.js": "/keeping_kalm/static/js/main.64b7c23c.js",
+    "main.css": "/keeping_kalm/static/css/main.d515b433.css",
+    "main.js": "/keeping_kalm/static/js/main.bf76470d.js",
     "static/media/3.png": "/keeping_kalm/static/media/3.8b36c63156344d4858e6.png",
+    "static/media/head.png": "/keeping_kalm/static/media/head.5b4861eb4ab90c7d6f45.png",
     "static/media/2.png": "/keeping_kalm/static/media/2.059d283394b286445bd7.png",
     "static/media/salomon_main.png": "/keeping_kalm/static/media/salomon_main.b424c80d7db8413ead91.png",
     "static/media/4.png": "/keeping_kalm/static/media/4.972f1684c59e0d8d8907.png",
@@ -10,12 +11,13 @@
     "static/media/6.png": "/keeping_kalm/static/media/6.b7ff211e515396285284.png",
     "static/media/dayle_main.png": "/keeping_kalm/static/media/dayle_main.be14f3de48c23982dffe.png",
     "static/media/5.png": "/keeping_kalm/static/media/5.50c80dd4db184371f869.png",
+    "static/media/favicon.png": "/keeping_kalm/static/media/favicon.8acc74a4090dc6d6f65c.png",
     "index.html": "/keeping_kalm/index.html",
-    "main.2abd676d.css.map": "/keeping_kalm/static/css/main.2abd676d.css.map",
-    "main.64b7c23c.js.map": "/keeping_kalm/static/js/main.64b7c23c.js.map"
+    "main.d515b433.css.map": "/keeping_kalm/static/css/main.d515b433.css.map",
+    "main.bf76470d.js.map": "/keeping_kalm/static/js/main.bf76470d.js.map"
   },
   "entrypoints": [
-    "static/css/main.2abd676d.css",
-    "static/js/main.64b7c23c.js"
+    "static/css/main.d515b433.css",
+    "static/js/main.bf76470d.js"
   ]
 }
